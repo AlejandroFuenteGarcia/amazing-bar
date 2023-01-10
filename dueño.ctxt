@@ -2,4 +2,10 @@
 comment0.target=due\u00F1o
 comment1.params=nombreDelDuenio\ dniDuenio\ barDelPropietario
 comment1.target=due\u00F1o(java.lang.String,\ java.lang.String,\ bar)
-numComments=2
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getDNI()
+comment4.params=
+comment4.target=bar\ getBarDelPropietario()
+numComments=5

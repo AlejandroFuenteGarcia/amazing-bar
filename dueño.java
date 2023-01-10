@@ -10,4 +10,16 @@ public class dueño
         dni=dniDuenio;
         barDelQueEsPropietario= barDelPropietario;
     }
+    
+    public String getNombre() {
+        return nombreDuenio;
+    }
+
+    public String getDNI() {
+        return dni;
+    }
+
+    public bar getBarDelPropietario() {
+        return barDelQueEsPropietario;
+    }
 }
