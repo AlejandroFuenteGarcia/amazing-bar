@@ -10,5 +10,20 @@ public class bar
         nombreBar= nombreDelBar;
         aforo= numeroDeAforo;
     }
+    
+    public String getNombreDelBar(){
+        return nombreBar;
+    }
+    
+    public int getNumeroDelAforo(){
+        return aforo;
+    }
+    
+    public void setNombre(String nuevoNombre){
+        nombreBar = nuevoNombre;
+    }
 
+    public void setAforo(int nuevoAforo){
+        aforo = nuevoAforo;
+    }
 }

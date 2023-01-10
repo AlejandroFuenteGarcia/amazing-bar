@@ -2,4 +2,12 @@
 comment0.target=bar
 comment1.params=nombreDelBar\ numeroDeAforo
 comment1.target=bar(java.lang.String,\ int)
-numComments=2
+comment2.params=
+comment2.target=java.lang.String\ getNombreDelBar()
+comment3.params=
+comment3.target=int\ getNumeroDelAforo()
+comment4.params=nuevoNombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=nuevoAforo
+comment5.target=void\ setAforo(int)
+numComments=6
