@@ -1,3 +1,5 @@
 #BlueJ class context
 comment0.target=due\u00F1o
-numComments=1
+comment1.params=nombreDelDuenio\ dniDuenio\ barDelPropietario
+comment1.target=due\u00F1o(java.lang.String,\ java.lang.String,\ bar)
+numComments=2
