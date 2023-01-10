@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=bar
+comment1.params=nombreDelBar\ numeroDeAforo
+comment1.target=bar(java.lang.String,\ int)
+numComments=2
