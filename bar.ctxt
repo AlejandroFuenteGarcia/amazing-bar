@@ -10,4 +10,6 @@ comment4.params=nuevoNombre
 comment4.target=void\ setNombre(java.lang.String)
 comment5.params=nuevoAforo
 comment5.target=void\ setAforo(int)
-numComments=6
+comment6.params=
+comment6.target=void\ imprimirDetalles()
+numComments=7

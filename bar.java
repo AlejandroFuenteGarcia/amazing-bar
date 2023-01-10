@@ -26,4 +26,8 @@ public class bar
     public void setAforo(int nuevoAforo){
         aforo = nuevoAforo;
     }
+    
+    public void imprimirDetalles(){
+        System.out.println("El bar se llama " + nombreBar + " y su aforo es de " + aforo + " personas");
+    }
 }
