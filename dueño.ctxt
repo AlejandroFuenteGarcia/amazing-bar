@@ -14,4 +14,6 @@ comment6.params=nuevodni
 comment6.target=void\ setdni(java.lang.String)
 comment7.params=nuevoBarDelQueEsPropietario
 comment7.target=void\ setnuevoBar(bar)
-numComments=8
+comment8.params=
+comment8.target=void\ imprimirDetalles()
+numComments=9
