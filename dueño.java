@@ -22,4 +22,16 @@ public class dueño
     public bar getBarDelPropietario() {
         return barDelQueEsPropietario;
     }
+    
+    public void setduenio(String nuevoDuenio){
+        nombreDuenio = nuevoDuenio;
+    }
+    
+    public void setdni(String nuevodni){
+        dni = nuevodni;
+    }
+    
+    public void setnuevoBar(bar nuevoBarDelQueEsPropietario){
+        barDelQueEsPropietario = nuevoBarDelQueEsPropietario;
+    }
 }
