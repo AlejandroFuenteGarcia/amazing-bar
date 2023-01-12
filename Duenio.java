@@ -3,9 +3,9 @@ public class Duenio
 {
     private String nombreDuenio;
     private String dni;
-    private bar barDelQueEsPropietario;
+    private Bar barDelQueEsPropietario;
 
-    public Duenio(String nombreDelDuenio, String dniDuenio, bar barDelPropietario){
+    public Duenio(String nombreDelDuenio, String dniDuenio, Bar barDelPropietario){
         nombreDuenio=nombreDelDuenio;
         dni=dniDuenio;
         barDelQueEsPropietario= barDelPropietario;
@@ -19,7 +19,7 @@ public class Duenio
         return dni;
     }
 
-    public bar getBarDelPropietario() {
+    public Bar getBarDelPropietario() {
         return barDelQueEsPropietario;
     }
     
@@ -31,7 +31,7 @@ public class Duenio
         dni = nuevodni;
     }
     
-    public void setnuevoBar(bar nuevoBarDelQueEsPropietario){
+    public void setnuevoBar(Bar nuevoBarDelQueEsPropietario){
         barDelQueEsPropietario = nuevoBarDelQueEsPropietario;
     }
     
