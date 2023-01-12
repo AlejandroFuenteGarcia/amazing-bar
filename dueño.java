@@ -38,6 +38,6 @@ public class dueño
     public void imprimirDetalles(){
         System.out.println("El nombre del dueño es : "+ nombreDuenio);
         System.out.println("El DNI del dueño es : "+ dni);
-        System.out.println("El bar del que es propietario es : "+ barDelQueEsPropietario.getNombreDelBar() + " con un aforo de : "+ barDelQueEsPropietario.getNumeroDelAforo() + " personas");
+        System.out.println("El bar del que es propietario es : "+ barDelQueEsPropietario.getNombreDelBar()  + " con un aforo de : "+ barDelQueEsPropietario.getNumeroDelAforo() + " personas");
     }
 }

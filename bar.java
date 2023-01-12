@@ -28,6 +28,6 @@ public class bar
     }
     
     public void imprimirDetalles(){
-        System.out.println("El bar se llama " + nombreBar + " y su aforo es de " + aforo + " personas");
+        System.out.println("El bar se llama " + nombreBar + " y su  aforo es de " + aforo + " personas");
     }
 }
